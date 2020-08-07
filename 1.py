@@ -7,3 +7,4 @@ model.add(layers.Dense(32, input_shape=(784,)))
 # Add another:
 model.add(layers.Dense(32))
 
+print('hello')
